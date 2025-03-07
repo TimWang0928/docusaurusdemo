@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-site.example.com/docusaurusdemo/blog</id>
-    <title>My Site Blog</title>
+    <title>Inossem Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-site.example.com/docusaurusdemo/blog"/>
-    <subtitle>My Site Blog</subtitle>
-    <icon>https://your-docusaurus-site.example.com/docusaurusdemo/img/favicon.ico</icon>
+    <subtitle>Inossem Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/docusaurusdemo/https://www.inossemtimes.com/cdn/shop/files/logo_3d80d9bb-d934-4cf3-acc2-a14ac16c0afd_32x32.png?v=1639718804</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://your-docusaurus-site.example.com/docusaurusdemo/blog/welcome</id>
